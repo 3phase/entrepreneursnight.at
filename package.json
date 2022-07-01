@@ -1,6 +1,7 @@
 {
   "name": "entrepreneursnight.at",
   "version": "1.0.0",
+  "main": "server.js",
   "description": "",
   "scripts": {
     "start": "node server.js"
@@ -15,7 +16,7 @@
     "url": "https://github.com/3phase/entrepreneursnight.at/issues"
   },
   "homepage": "https://github.com/3phase/entrepreneursnight.at#readme",
-  "devDependencies": {
+  "dependencies": {
     "express": "^4.18.1"
   }
 }
