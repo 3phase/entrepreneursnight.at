@@ -124,7 +124,7 @@ a.read-more:hover {
     color: #222;
 }
 .body-color{
-   background: #161362;
+   background: $background-color;
    color: $white-color;
 }
 
@@ -249,7 +249,7 @@ img.pull-right {
    font-weight: 700;
    color: $white-color;
    text-transform: uppercase;
-   background: #ff007a;
+   background: $primary-color;
    height: 50px;
    padding: 0 35px;
    line-height: 50px;
