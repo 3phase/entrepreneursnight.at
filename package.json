@@ -1,0 +1,17 @@
+{
+  "name": "entrepreneursnight.at",
+  "version": "1.0.0",
+  "description": "A template website for EntrepreneursNight.at",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github/3phase/entrepreneursnight.at"
+  },
+  "author": "Petko Bozhinov",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
